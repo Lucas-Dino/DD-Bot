@@ -1,2 +1,2 @@
 # DD-Bot
-Um bot para discord, em desenvolvimento... [0%]
+Um bot para discord, em desenvolvimento... [23%]
