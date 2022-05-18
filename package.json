@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "console-log-colors": "^0.2.3",
+    "discord.js": "^13.7.0"
+  },
+  "name": "dd-bot",
+  "version": "1.0.0",
+  "description": "Um bot para o discord ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Dino/DD-Bot.git"
+  },
+  "author": "Lukas",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Lucas-Dino/DD-Bot/issues"
+  },
+  "homepage": "https://github.com/Lucas-Dino/DD-Bot#readme"
+}
